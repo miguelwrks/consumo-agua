@@ -14,3 +14,6 @@
 #match case pra tipo de imovel, que tem poucas opçoes definidas
 #if para consumo, pq varia
 
+print('---> Programa Consumo Agua <---')
+
+imovel = str(input('Digite o tipo do imovel (Casa, Apartamento ou Comercial):'))
