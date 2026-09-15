@@ -36,4 +36,3 @@ match imovel:
     case _:
         print('opçao de imovel invalida')
 
-#fazer readme e formatar a exibiçao dos dados
